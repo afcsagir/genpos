@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"varQ"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sele",
+				"selects"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"Att",
+				"Attribute"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"su",
+				"subName"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"A",
+				"Array"
+			],
+			[
+				"pro",
+				"productId"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ca",
+				"catName"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pr",
+				"product_id"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"dA",
+				"dAtts"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"sol",
+				"soldItem"
+			],
+			[
+				"so",
+				"soldItems"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"cart",
+				"cartId"
+			],
+			[
+				"Cart",
+				"CartItem"
+			],
+			[
+				"chec",
+				"checkOutMethod"
+			],
+			[
+				"ch",
+				"checkOutMethod"
+			],
+			[
+				"W",
+				"Wishlist_Item"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pduct",
+				"productId"
+			],
+			[
+				"Ca",
+				"CartItem"
+			],
+			[
+				"va",
+				"variances"
+			],
+			[
+				"combo",
+				"comboArray"
+			],
+			[
+				"arra",
+				"arrayOfArrays"
+			],
+			[
+				"type",
+				"typeValue"
+			],
+			[
+				"ty",
+				"typeId"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 583,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/genpos-v13"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/e-shop-v11/resources/views/product.blade.php",
+		"/C/laragon/www/e-shop-v11/app/Http/Controllers/ProductController.php",
+		"/C/laragon/www/e-shop-v11/routes/web.php",
+		"/C/laragon/www/e-shop-v11/resources/views/special.blade.php",
+		"/C/laragon/www/e-shop-v11/app/SoldProduct.php",
+		"/C/laragon/www/e-shop-v11/app/SpecialOrder.php",
+		"/C/laragon/www/e-shop-v11/app/Variance.php",
+		"/C/laragon/www/e-shop-v11/app/Return.php",
+		"/C/laragon/www/e-shop-v11/app/Invoice.php",
+		"/C/laragon/www/e-shop-v11/database/migrations/2017_10_18_104528_create_sold_products_table.php",
+		"/C/laragon/www/e-shop-v11/database/migrations/2017_11_24_175947_create_special_orders_table.php",
+		"/C/laragon/www/e-shop-v11/database/migrations/2017_11_24_174223_create_returns_table.php",
+		"/C/laragon/www/e-shop-v11/database/migrations/2017_11_24_163122_create_invoices_table.php",
+		"/C/laragon/www/e-shop-v11/app/Http/Controllers/CartController.php",
+		"/C/laragon/www/e-shop-v11/resources/views/edit-variant.blade.php",
+		"/C/laragon/www/e-shop-v11/resources/views/add-variant.blade.php",
+		"/C/laragon/www/e-shop-v11/app/Http/Controllers/ProductEditController.php",
+		"/C/laragon/www/e-shop-v11/resources/views/orders.blade.php",
+		"/C/laragon/www/e-shop-v11/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/e-shop-v11/app/Http/Controllers/OrdersController.php",
+		"/C/laragon/www/e-shop-v11/resources/views/add-product.blade.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/laragon/www/e-shop-v11/resources/add-attribute.blade.php",
+		"/C/Users/KC/Downloads/add-attribute.blade.php",
+		"/C/Users/KC/Downloads/new-attribute.blade.php",
+		"/C/laragon/www/e-shop-v11/resources/views/new-attribute.blade.php",
+		"/C/laragon/www/e-shop-v11/resources/edit-product.blade.php",
+		"/C/Users/KC/Desktop/.env",
+		"/C/Users/KC/Desktop/bootstrap-select-1.12.4/bootstrap-select-1.12.4/test.html",
+		"/C/Users/KC/Downloads/add-product.blade.php",
+		"/C/laragon/www/gentelella/resources/views/reports.blade.php",
+		"/C/laragon/www/e-shop-04-a-without-email/e-shop-v11/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/e-shop-v11/public/css/products.css",
+		"/C/laragon/www/e-shop-v11/resources/views/edit-product.blade.php",
+		"/C/laragon/www/e-shop-v11/resources/views/shop.blade.php",
+		"/C/laragon/www/e-shop-v11/database/migrations/2017_10_07_032951_create_variances_table.php",
+		"/C/laragon/www/e-shop-v11/public/css/bootstrap-select.min.css",
+		"/C/laragon/www/e-shop-v11/public/css/modal.css",
+		"/C/laragon/www/e-shop-v11/app/Review.php",
+		"/C/laragon/www/e-shop-v11/database/migrations/2017_10_21_034443_create_details_table.php",
+		"/C/laragon/www/e-shop-v11/database/migrations/2017_10_31_035614_create_reviews_table.php",
+		"/C/laragon/www/e-shop-v11/app/Product.php",
+		"/C/laragon/www/e-shop-v11/app/Http/Controllers/ProductViewController.php",
+		"/C/laragon/www/e-shop-v11/public/css/app.css",
+		"/C/laragon/www/e-shop-v11/resources/views/view.blade.php",
+		"/C/laragon/www/e-shop-v11/resources/views/profile.blade.php",
+		"/C/laragon/www/tutacare/.env.example",
+		"/C/laragon/www/tutacare/.env",
+		"/C/laragon/www/e-shop-v11/.env",
+		"/C/laragon/www/e-shop-v1/.env",
+		"/C/laragon/www/e-shop-20/public/css/app.css",
+		"/C/laragon/www/e-shop-20/resources/views/home.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/view.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/shop.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/checkout.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/all-products.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/category.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/edit-variant.blade.php",
+		"/C/laragon/www/e-shop-20/public/css/product.css",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/HomeController.php",
+		"/C/laragon/www/e-shop-20/resources/views/product.blade.php",
+		"/C/laragon/www/e-shop-20/database/migrations/2017_10_15_101802_create_table_carts_item.php",
+		"/C/laragon/www/e-shop-20/resources/views/edit_user_form.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/ccard.blade.php",
+		"/C/laragon/www/e-shop-20/routes/web.php",
+		"/C/laragon/www/e-shop-20/resources/views/all-customers.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/edit-product.blade.php",
+		"/C/laragon/www/e-shop-20/resources/views/add-product.blade.php",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/UserController.php",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/ProductViewController.php",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/ProductEditController.php",
+		"/C/laragon/www/e-shop-20/resources/views/sold.blade.php",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/CartController.php",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/ProductController.php",
+		"/C/laragon/www/e-shop-20/database/migrations/2017_10_21_034443_create_details_table.php",
+		"/C/laragon/www/e-shop-20/database/migrations/2017_10_02_045808_create_products_table.php",
+		"/C/laragon/www/e-shop-20/database/migrations/2017_10_15_101727_create_table_carts.php",
+		"/C/laragon/www/e-shop-20/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/e-shop-20/database/migrations/2017_10_18_104528_create_sold_products_table.php",
+		"/C/laragon/www/e-shop-20/app/Http/Kernel.php",
+		"/C/laragon/www/e-shop-20/app/Http/Controllers/Auth/LoginController.php",
+		"/C/laragon/www/e-shop-digi/.env",
+		"/C/Users/KC/Desktop/e-shop-22-a/e-shop-20/resources/views/layouts/app.blade.php",
+		"/C/Users/KC/Desktop/e-shop-v1-20-b/e-shop-v1/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/e-shop-sha/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/e-shop-origin/vendor/symfony/http-kernel/Kernel.php",
+		"/C/laragon/www/e-shop-20/public/js/product.js",
+		"/C/laragon/www/e-shop-20/resources/views/layouts/app.blade - Copy.php",
+		"/C/laragon/www/pharma/.htaccess",
+		"/C/laragon/www/e-shop-20/.env",
+		"/C/laragon/www/pharma/.env",
+		"/C/laragon/www/e-shop-v1/resources/views/view.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/all-products.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/add-attribute.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/wishlist.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/edit-product.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/profile.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/home.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/shop.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/add-product.blade.php",
+		"/C/laragon/www/e-shop-v1/resources/views/product.blade.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Controllers/WishlistController.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Controllers/ProductViewController.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Controllers/CartController.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Controllers/ProductController.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Controllers/ProductEditController.php",
+		"/C/laragon/www/e-shop-v1/app/Product.php",
+		"/C/laragon/www/e-shop-v1/app/User.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Middleware/AdminMiddleware.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Controllers/HomeController.php",
+		"/C/laragon/www/e-shop-v1/app/Http/Controllers/Controller.php",
+		"/C/laragon/www/e-shop-v1/app/Detail.php",
+		"/C/laragon/www/e-shop-v1/public/css/products.css",
+		"/C/laragon/www/e-shop-v1/public/css/product.css",
+		"/C/laragon/www/e-shop-v1/database/migrations/2017_10_20_074116_create_details_table.php",
+		"/C/laragon/www/e-shop-v1/app/Details.php",
+		"/C/laragon/www/e-shop-v1/2017_10_20_074116_create_details_table.php",
+		"/C/laragon/www/e-shop-v1/Detail.php",
+		"/C/laragon/www/e-shop-v1/routes/web.php",
+		"/C/laragon/www/e-shop-v1/database/migrations/2017_10_15_101727_create_table_carts.php",
+		"/C/laragon/www/e-shop-v1/database/migrations/2017_10_18_062311_create_wishlist__items_table.php",
+		"/C/laragon/www/e-shop-v1/database/migrations/2017_10_15_101802_create_table_carts_item.php",
+		"/C/laragon/www/e-shop-v1/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/e-shop-sha/.env",
+		"/C/laragon/www/e-shop-sha/public/css/products.css"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"varQ",
+			"varid",
+			"?",
+			"checkou",
+			"varId",
+			"json",
+			"profile",
+			"path",
+			"edit",
+			"user",
+			"pic",
+			"quantity",
+			"$optionChoice",
+			"min",
+			"$attq",
+			"attq",
+			"min",
+			"}}\">",
+			"getcat",
+			"attq",
+			"h3",
+			"example"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "genpos-v13.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
