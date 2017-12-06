@@ -11,6 +11,6 @@
 |
 */
 
-//Route::get('/api/users',function(){
-//	return App\Customer::where('name','LIKE','%'.request('q').'%')->paginate(10);
-//});
+Route::get('/api/users',function(){
+	return App\Customer::where('name','LIKE','%'.request('q').'%')->paginate(10);
+});
