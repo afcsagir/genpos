@@ -1,5 +1,5 @@
 ## laravel-gentelella
-
+Sagir Developed
 Laravel-gentelella is a Laravel 5.4 application with all Gentelella template components.
 
 ## Change log
@@ -145,3 +145,4 @@ Add auth support !
 You are ready for a new Laravel 5.4 application with Gentelella template !!
 
 # genpos
+########try second time
